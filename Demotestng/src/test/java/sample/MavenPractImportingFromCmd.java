@@ -6,7 +6,7 @@ public class MavenPractImportingFromCmd {
 	
 	@Test
 	public void praticetest1() {
-		System.out.println("hello sammmyyyy ");
+		System.out.println("hello sammmyyyy how r u");
 		System.out.println("TYSS1");
 		String admin = System.getProperty("ADMIN");
 		System.out.println(admin);
